@@ -22,7 +22,7 @@ To get started with this application, follow these steps:
    
     Note: If additional NuGet packages are required in the future, make sure to run dotnet restore to install them.
 
-2. Fill the value of Host, Mail, Username, and Password in the `appsettings.json`
+2. Fill the value of Host, Mail, Username, and Password in the `appsettings.json` with your mail server information.
 
 3. Navigate to the root directory of your project where the `.csproj` file is located.
 
@@ -52,4 +52,4 @@ To get started with this application, follow these steps:
 I think it is necessary to implement a more secure method for storing mail server credentials. This enhancement aims to enhance the overall security of the application by adopting best practices for handling sensitive information, such as email usernames and passwords. 
 
 
-### That's it for now. If you have any idea and feedback please let me know.
+## That's it for now. If you have any idea and feedback please let me know.
