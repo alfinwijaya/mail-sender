@@ -33,19 +33,17 @@ To get started with this application, follow these steps:
    ```
 5. Navigate to `<YourPublishDirectory>` and run terminal in there. You can use `MailSender -h` or `MailSender --help` to see the available options.
 
-   <img width="359" alt="image" src="https://github.com/alfinwijaya/mail-sender/assets/77500112/b052f8fd-4bcd-4e0a-8bd7-5214cfe98b72">
+   <img width="355" alt="image" src="https://github.com/alfinwijaya/mail-sender/assets/77500112/1d998ef4-c1cd-4c7c-bc88-51b48cd4750b">
 
 6. Example to execute the application.
    
-    <img width="850" alt="image" src="https://github.com/alfinwijaya/mail-sender/assets/77500112/061e3726-bf38-410f-80d1-d262df6db712">
+    <img width="850" alt="image" src="https://github.com/alfinwijaya/mail-sender/assets/77500112/c8c844ba-8b64-4c10-ac25-788eece5d565">
 
     Note: -f, -p, -t are censored for security issue
 
 7. The mail has arrived !!!
 
-
-    <img width="515" alt="image" src="https://github.com/alfinwijaya/mail-sender/assets/77500112/750daa49-a47c-4ec5-b5eb-0449c4d5671e">
-
+    <img width="505" alt="image" src="https://github.com/alfinwijaya/mail-sender/assets/77500112/d0979c5a-692e-44a1-a2fc-f38b1234771e">
 
 9. Take a note if you don't provide -f, -p, -s, -b the application will use default one from `appsettings.json`
 
